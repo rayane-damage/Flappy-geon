@@ -5,3 +5,4 @@
 The game features a beautiful pixel-art retro aesthetic with vibrant colors, faithful to the Game Boy Color era with a simple yet effective visual language.
 
 As for the gameplay loop, it's everything you would expect from a clone of the classic IOS game, no more, no less.
+[Give it a try !](https://flappy-geon.netlify.app/)
